@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1574713152 source:e:\cacheta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"selecionar.h"
+
+1574883422 e:\cacheta\selecionar.h
+	<windows.h>
+	<stdio.h>
+
+1574978748 source:f:\cacheta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"selecionar.h"
+
+1574977476 f:\cacheta\selecionar.h
+	<windows.h>
+	<stdio.h>
+
+1575819008 source:c:\users\jair\desktop\marcador-de-cacheta-master\cacheta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"selecionar.h"
+
+1576122746 c:\users\jair\desktop\marcador-de-cacheta-master\cacheta\selecionar.h
+	<windows.h>
+	<stdio.h>
+	"desenha.h"
+
+1576122733 c:\users\jair\desktop\marcador-de-cacheta-master\cacheta\desenha.h
+	<windows.h>
+	<stdio.h>
+
